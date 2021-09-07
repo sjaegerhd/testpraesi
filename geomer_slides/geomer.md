@@ -20,12 +20,10 @@ Environmental Research
 - Grundwasser
 - FuE
 
-
-
 ---
 
-## IT {data-transition="slide-in fade-out"}
-<small>ddd</small>
+## IT
+
 - GDI
 - Floodarea
 ---
