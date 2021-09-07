@@ -13,6 +13,13 @@ Environmental Research
 - Grundwasser
 - FuE
 
+-----
+Bildtest
+![tesbild](img/geomer_logo.jpg)
+
+![tesbild](img/geomer_logo.jpg)
+
+
 ---
 
 ## IT
