@@ -1,3 +1,10 @@
+---
+title: "Habits"
+output:
+  html_document:
+    toc: true
+    number_sections: true
+---
 ### geomer Heidelberg
 Geoinformatik
 [link](http://www.geomer.de)
@@ -17,8 +24,8 @@ Environmental Research
 
 ---
 
-## IT
-ddd
+## IT {data-transition="slide-in fade-out"}
+<small>ddd</small>
 - GDI
 - Floodarea
 ---
