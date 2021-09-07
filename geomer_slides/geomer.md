@@ -2,7 +2,7 @@
 Geoinformatik
 [geomer HomePage](http://www.geomer.de)
 -----
-### Abteilungen
+## Abteilungen
 viele verschiedene
 -----
 
