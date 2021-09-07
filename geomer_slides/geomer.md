@@ -7,9 +7,9 @@ output:
 ---
 ### geomer Heidelberg
 Geoinformatik
-[link](http://www.geomer.de)
+[geomer HomePage](http://www.geomer.de)
 -----
-## Abteilungen
+### Abteilungen
 viele verschiedene
 -----
 
