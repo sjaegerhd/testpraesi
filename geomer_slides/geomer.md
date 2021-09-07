@@ -1,13 +1,28 @@
------
 ### geomer Heidelberg
+Geoinformatik
+[link](http://www.geomer.de)
 -----
 ## Abteilungen
+viele verschiedene
 -----
 
 ## ER
+Environmental Research
+- Starkregen
+- Hochwasser
+- Grundwasser
+- FuE
+
+
+
 ---
-ddd
+
 ## IT
----
 ddd
+- GDI
+- Floodarea
+---
+
 ## BS
+- Geodaten
+- HERE
